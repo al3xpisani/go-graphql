@@ -1,0 +1,35 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Go binary
+*.exe
+*.exe~
+*.dll
+*.bin
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Compiled Go code
+*.test
+*.prof
+
+# Output of the go coverage tool, specifically when used with JetBrains IDEs
+.idea/
+
+# Compiled binary executables
+bin/
+
+# Generated documentation
+doc/
+
+# Environment variables file
+.env
+
+# Go Modules cache directory
+/go/pkg/
